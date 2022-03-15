@@ -1,0 +1,14 @@
+@media (min-width: 768px) {
+    .back {
+        background-image: url(./images/bigSection.svg);
+        background-repeat: no-repeat;
+        background-size: 30%;
+        background-position: 100% 50%;
+    }
+}
+
+@media (max-width: 970px) {
+    .back {
+        background: none;
+    }
+}
